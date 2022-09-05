@@ -1,5 +1,4 @@
 #!/bin/bash
-chmod u+x $1
 git add .
 git commit -m 'Redirections'
 git push
